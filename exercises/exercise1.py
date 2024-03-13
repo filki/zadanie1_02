@@ -15,3 +15,8 @@ pi = 3.14
 r = 10
 pole_ko = pi * r ** 2
 print("pole koła wynosi: " + str(pole_ko))
+
+a = 5
+b = 10
+pole_pr = a * b
+print("pole prostokąta wynosi: " + str(pole_pr))
